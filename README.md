@@ -14,11 +14,11 @@ Este repositorio contiene los materiales de las segunda parte del curso Big Data
 
 ## 2. Clasificación Usando Vecinos más Cercanos
 
-[Vecinos más Cercanos kNN (Slides)](/knn/kNN.pdf)
+[Vecinos más Cercanos kNN (Slides)](/kNN/kNN.pdf)
 
-[Vecinos más Cercanos kNN en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/Big-Data-4-Public-and-Private-Sectors/blob/master/knn/kNNR.nb.html)
+[Vecinos más Cercanos kNN en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/Big-Data-4-Public-and-Private-Sectors/blob/master/kNN/kNNR.nb.html)
 
-[wisc_bc_data.csv (Base de Datos)](/knn/wisc_bc_data.csv)
+[wisc_bc_data.csv (Base de Datos)](/kNN/wisc_bc_data.csv)
 
 
 
