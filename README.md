@@ -25,75 +25,75 @@ Este repositorio contiene los materiales de las segunda parte del curso Big Data
 
 ## 3. Naive Bayes
 
-[Naive Bayes (Slides)](/naivebayes/NaiveBayes.pdf)
+Naive Bayes (Slides)
 
-[Naive Bayes en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/naivebayes/naivebayesR.nb.html)
+Naive Bayes en R (Guía)
 
-[sms_spam.csv (Base de Datos)](/naivebayes/sms_spam.csv)
+Datos Naive Bayes
 
 
 
 ## 4. Support Vector Machine
 
-[Support Vector Machine (Slides)](/naivebayes/NaiveBayes.pdf)
+Support Vector Machine (Slides)
 
-[Support Vector Machine en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/naivebayes/naivebayesR.nb.html)
+Support Vector Machine en R (Guía)
 
-[sms_spam.csv (Base de Datos)](/naivebayes/sms_spam.csv)
+Datos SVM
 
 
 
 
 ## 5. Árboles de Decisión
 
-[Árboles de Decisión (Slides)](/arboles/DecisionTrees.pdf)
+Árboles de Decisión (Slides)
 
 
-[Árboles de Decisión en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/arboles/treesR.html)
+Árboles de Decisión en R (Guía)
 
-[credit.csv (Base de Datos)](/arboles/credit.csv)
+Datos Árboles de Decisión
 
 
 
 
 ## 6. Random Forests
 
-[Random Forest (Slides)](/forests/RandomForests1.pdf)
+Random Forest (Slides)
 
-[Random Forests en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/forests/Random_Forests_R.html)
+Random Forests en R (Guía)
 
-[bank.csv (Base de Datos)](/forests/bank.csv)
+Datos Random Forests
 
 
 
 
 ## 7. Métodos de Predicción: Regresión
 
-[Regresión Lineal y Logit (Slides)](/regresion/Regresion.pdf)
+Regresión Lineal y Logit (Slides)
 
-[Regresión Lineal y Logit en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/regresion/RegresionR.html)
+Regresión Lineal y Logit en R (Guía)
 
-[insurance.csv (Base de Datos)](/regresion/insurance.csv)
+Datos Regresión
 
 
 
 
 ## 8. RIDGE y LASSO
 
-[Regresiones RIDGE y LASSO (Slides)](/regresion/Regresion.pdf)
+Regresiones RIDGE y LASSO (Slides)
 
-[Regresiones RIDGE y LASSO en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/regresion/RegresionR.html)
+Regresiones RIDGE y LASSO en R (Guía)
 
-[insurance.csv (Base de Datos)](/regresion/insurance.csv)
+Datos RIDGE y LASSO
 
 
 
 ## 9. Desempeño de Modelos
 
-[Desempeño de Modelos (Slides)](/regresion/Regresion.pdf)
+Desempeño de Modelos (Slides)
 
-[Desempeño de Modelos en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/regresion/RegresionR.html)
+Desempeño de Modelos en R (Guía)
 
-[insurance.csv (Base de Datos)](/regresion/insurance.csv)
+Datos Desempeño de Modelos
 
 
