@@ -6,7 +6,7 @@ Este repositorio contiene los materiales de las segunda parte del curso Big Data
 
 ## 1. Introducción
 
-[Syllabus](/Intro/syllabus Big Data - Parte 2.pdf)
+[Syllabus](/Intro/syllabus.pdf)
 
 [Introducción (slides)](/Intro/Intro.pdf)
 
