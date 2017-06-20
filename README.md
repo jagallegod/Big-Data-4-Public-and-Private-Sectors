@@ -16,7 +16,7 @@ Este repositorio contiene los materiales de las segunda parte del curso Big Data
 
 [Vecinos más Cercanos kNN (Slides)](/knn/kNN.pdf)
 
-[Vecinos más Cercanos kNN en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/knn/kNNR.nb.html)
+[Vecinos más Cercanos kNN en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/Big-Data-4-Public-and-Private-Sectors/blob/master/knn/kNNR.nb.html)
 
 [wisc_bc_data.csv (Base de Datos)](/knn/wisc_bc_data.csv)
 
