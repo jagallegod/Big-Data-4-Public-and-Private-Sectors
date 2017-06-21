@@ -25,11 +25,11 @@ Este repositorio contiene los materiales de las segunda parte del curso Big Data
 
 ## 3. Naive Bayes
 
-[Naive Bayes (Slides)](/Naive Bayes/NaiveBayes.pdf)
+[Naive Bayes (Slides)](/NaiveBayes/NaiveBayes.pdf)
 
-[Naive Bayes en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/Big-Data-4-Public-and-Private-Sectors/blob/master/Naive Bayes/nbR.nb.html)
+[Naive Bayes en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/Big-Data-4-Public-and-Private-Sectors/blob/master/NaiveBayes/nbR.nb.html)
 
-[votos84.csv (Base de Datos)](/Naive Bayes/votos84.csv)
+[votos84.csv (Base de Datos)](/NaiveBayes/votos84.csv)
 
 
 
