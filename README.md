@@ -35,7 +35,7 @@ Este repositorio contiene los materiales de las segunda parte del curso Big Data
 
 ## 4. Support Vector Machine
 
-Support Vector Machine (Slides)
+[Support Vector Machine (Slides)](/SVM/SVM.pdf)
 
 Support Vector Machine en R (Guía)
 
