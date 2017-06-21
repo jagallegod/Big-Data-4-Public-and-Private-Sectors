@@ -37,9 +37,9 @@ Este repositorio contiene los materiales de las segunda parte del curso Big Data
 
 [Support Vector Machine (Slides)](/SVM/SVM.pdf)
 
-Support Vector Machine en R (Guía)
+[Support Vector Machine en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/Big-Data-4-Public-and-Private-Sectors/blob/master/SVM/SVMR.html)
 
-Datos SVM
+[letterdata.csv](/SVM/letterdata.csv)
 
 
 
