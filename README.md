@@ -39,7 +39,7 @@ Este repositorio contiene los materiales de las segunda parte del curso Big Data
 
 [Support Vector Machine en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/Big-Data-4-Public-and-Private-Sectors/blob/master/SVM/SVMR.html)
 
-[letterdata.csv](/SVM/letterdata.csv)
+[letterdata.csv (Base de Datos)](/SVM/letterdata.csv)
 
 
 
@@ -51,7 +51,7 @@ Este repositorio contiene los materiales de las segunda parte del curso Big Data
 
 [Árboles de Decisión en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/Big-Data-4-Public-and-Private-Sectors/blob/master/DecisionTrees/treesR.html)
 
-[credit.csv](/DecisionTrees/credit.csv)
+[credit.csv (Base de Datos)](/DecisionTrees/credit.csv)
 
 
 
@@ -62,7 +62,7 @@ Este repositorio contiene los materiales de las segunda parte del curso Big Data
 
 [Random Forests en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/Big-Data-4-Public-and-Private-Sectors/blob/master/RandomForests/Random_Forests_R.html)
 
-[bank.csv](/RandomForests/bank.csv)
+[bank.csv (Base de Datos)](/RandomForests/bank.csv)
 
 
 
@@ -73,7 +73,7 @@ Este repositorio contiene los materiales de las segunda parte del curso Big Data
 
 [Regresión Lineal y Logit en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/Big-Data-4-Public-and-Private-Sectors/blob/master/Regresion/RegresionR.html)
 
-[insurance.csv](Regresion/insurance.csv)
+[insurance.csv (Base de Datos)](Regresion/insurance.csv)
 
 
 
