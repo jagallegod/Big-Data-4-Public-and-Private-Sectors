@@ -46,12 +46,12 @@ Este repositorio contiene los materiales de las segunda parte del curso Big Data
 
 ## 5. Árboles de Decisión
 
-Árboles de Decisión (Slides)
+[Árboles de Decisión (Slides)](/DecisionTrees/DecisionTrees.pdf)
 
 
-Árboles de Decisión en R (Guía)
+[Árboles de Decisión en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/Big-Data-4-Public-and-Private-Sectors/blob/master/DecisionTrees/treesR.html)
 
-Datos Árboles de Decisión
+[credit.csv](/DecisionTrees/credit.csv)
 
 
 
