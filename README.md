@@ -58,7 +58,7 @@ Este repositorio contiene los materiales de las segunda parte del curso Big Data
 
 ## 6. Random Forests
 
-[Random Forest (Slides)][/RandomForests/Random_Forests.pdf]
+[Random Forest (Slides)](/RandomForests/Random_Forests.pdf)
 
 [Random Forests en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/Big-Data-4-Public-and-Private-Sectors/blob/master/RandomForests/Random_Forests_R.html)
 
