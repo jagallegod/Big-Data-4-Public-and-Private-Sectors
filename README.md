@@ -69,11 +69,11 @@ Este repositorio contiene los materiales de las segunda parte del curso Big Data
 
 ## 7. Métodos de Predicción: Regresión
 
-Regresión Lineal y Logit (Slides)
+[Regresión Lineal y Logit (Slides)](/Regresion/Regresion.pdf)
 
-Regresión Lineal y Logit en R (Guía)
+[Regresión Lineal y Logit en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/Big-Data-4-Public-and-Private-Sectors/blob/master/Regresion/RegresionR.html)
 
-Datos Regresión
+[insurance.csv](Regresion/insurance.csv)
 
 
 
