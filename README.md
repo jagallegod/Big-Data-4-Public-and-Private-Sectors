@@ -80,7 +80,7 @@ Este repositorio contiene los materiales de las segunda parte del curso Big Data
 
 ## 8. RIDGE y LASSO
 
-[Regresiones RIDGE y LASSO (Slides)](/Lasso/LASSO.pdf)
+[Regresiones RIDGE y LASSO (Slides)](/LASSO/LASSO.pdf)
 
 Regresiones RIDGE y LASSO en R (Guía)
 
