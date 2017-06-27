@@ -90,7 +90,7 @@ Este repositorio contiene los materiales de las segunda parte del curso Big Data
 
 ## 9. Desempeño de Modelos
 
-Desempeño de Modelos (Slides)
+[Desempeño de Modelos (Slides)](/Performance/Desempeño)
 
 Desempeño de Modelos en R (Guía)
 
