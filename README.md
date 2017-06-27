@@ -82,9 +82,9 @@ Este repositorio contiene los materiales de las segunda parte del curso Big Data
 
 [Regresiones RIDGE y LASSO (Slides)](/LASSO/LASSO.pdf)
 
-Regresiones RIDGE y LASSO en R (Guía)
+Regresiones RIDGE y LASSO en R (Guía)(http://htmlpreview.github.io/?https://github.com/jagallegod/Big-Data-4-Public-and-Private-Sectors/blob/master/LASSO/LassoR.html)
 
-Datos RIDGE y LASSO
+[Hitters.csv](/LASSO/Hitters.csv)
 
 
 
