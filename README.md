@@ -97,3 +97,6 @@ Desempeño de Modelos en R (Guía)
 Datos Desempeño de Modelos
 
 
+## Examen Parcial
+
+[Examen Parcial](/Examen/parcial.pdf)
