@@ -90,7 +90,7 @@ Este repositorio contiene los materiales de las segunda parte del curso Big Data
 
 ## 9. Desempeño de Modelos
 
-[Desempeño de Modelos (Slides)](/Performance/Desempeño.pdf)
+[Desempeño de Modelos (Slides)](/Performance/Performance.pdf)
 
 [Desempeño de Modelos en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/Big-Data-4-Public-and-Private-Sectors/blob/master/Performance/desempeno.html)
 
