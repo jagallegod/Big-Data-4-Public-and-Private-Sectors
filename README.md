@@ -92,9 +92,9 @@ Este repositorio contiene los materiales de las segunda parte del curso Big Data
 
 [Desempeño de Modelos (Slides)](/Performance/Desempeno.pdf)
 
-Desempeño de Modelos en R (Guía)
+[Desempeño de Modelos en R (Guía)](Performance/desempeno.html)
 
-Datos Desempeño de Modelos
+[bank.csv](/Performance/bank.csv)
 
 
 ## Examen Parcial
