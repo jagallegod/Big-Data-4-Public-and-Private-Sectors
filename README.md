@@ -1,5 +1,5 @@
 # Big Data for Public and Private Sectors (Parte 2)
-Este repositorio contiene los materiales de la segunda parte del curso "Big Data for Public and Private Sectors", ofrecido en la Universidad del Rosario en junio de 2017. En esta segunda parte cubrimos los principales modelos de machine learning supervisado. Cada sección contiene la explicación teórica de los modelos, seguida de aplicaciones computacionales en R. Buena parte del material se basa en capítulos de los libros de Lantz (2015) y James et. al (2013). 
+Este repositorio contiene los materiales de la segunda parte de los cursos "Big Data for Public and Private Sectors" e "Introduction to Data Science", ofrecidos en la Universidad del Rosario en junio de 2017 y 2018. En esta segunda parte cubrimos los principales modelos de machine learning supervisado. Cada sección contiene la explicación teórica de los modelos, seguida de aplicaciones computacionales en R. Buena parte del material se basa en capítulos de los libros de Lantz (2015) y James et. al (2013). 
 
 ### Profesor: Jorge Gallego
 
