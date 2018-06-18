@@ -97,6 +97,3 @@ Este repositorio contiene los materiales de la segunda parte del curso "Big Data
 [bank.csv](/Performance/bank.csv)
 
 
-## Examen Parcial
-
-[Examen Parcial](/Examen/parcial.pdf)
