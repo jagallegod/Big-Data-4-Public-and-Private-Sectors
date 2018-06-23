@@ -96,4 +96,6 @@ Este repositorio contiene los materiales de la segunda parte de los cursos "Big 
 
 [bank.csv](/Performance/bank.csv)
 
+[bank_sample.csv](/Performance/bank.csv)
+
 
